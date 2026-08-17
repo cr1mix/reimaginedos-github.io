@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cr1mix.github.io/ReimaginedOS/sitemap.xml
+
